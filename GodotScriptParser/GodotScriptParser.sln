@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotScriptParser", "GodotScriptParser.csproj", "{F3E65D36-79EF-40B4-A70E-5B099EA8620F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E65D36-79EF-40B4-A70E-5B099EA8620F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E65D36-79EF-40B4-A70E-5B099EA8620F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E65D36-79EF-40B4-A70E-5B099EA8620F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E65D36-79EF-40B4-A70E-5B099EA8620F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73ADEEEF-8C0B-48F6-9FF5-88808AF1D9AA}
+	EndGlobalSection
+EndGlobal

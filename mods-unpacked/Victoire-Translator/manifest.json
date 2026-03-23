@@ -1,0 +1,22 @@
+{
+	"name": "Translator",
+	"namespace": "Victoire",
+	"version_number": "0.1.0",
+	"description": "Translate the game",
+	"website_url": "https://github.com/example/repo",
+	"dependencies": [
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Victoire"],
+			"tags": ["translation"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["7.0.1"],
+			"compatible_game_version": ["1.09"],
+			"config_schema": {}
+		}
+	}
+}
