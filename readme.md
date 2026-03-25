@@ -1,6 +1,6 @@
 # What's this mod ?
 
-This mod make the game [HARDCODED](https://store.steampowered.com/app/2693710/HARDCODED/) mostly translatable.   
+This mod makes the game [HARDCODED](https://store.steampowered.com/app/2693710/HARDCODED/) mostly translatable.   
 I still didn't made any translation myself, but I hope the community will contribute to it !  
 If you are not afraid of being spoiled and want to help translate it for others people, there is a tutorial [here](#translation).
 
