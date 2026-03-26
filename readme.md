@@ -1,6 +1,6 @@
 # What's this mod ?
 
-This mod makes the game [HARDCODED](https://store.steampowered.com/app/2693710/HARDCODED/) mostly translatable.   
+This mod makes the game [HARDCODED](https://store.steampowered.com/app/2693710/HARDCODED/) mostly translatable in ANY language.   
 I still didn't made any translation myself, but I hope the community will contribute to it !  
 If you are not afraid of being spoiled and want to help translate it for others people, there is a tutorial [here](#translation).
 
@@ -24,3 +24,7 @@ In the github source repository, you will find a [file named translation_templat
 This file contains most of the strings of the game, you can open it using [POEdit](https://poedit.net/) or any [similar software](https://alternativeto.net/software/poedit/).
    
 On POedit you will be able to generate a .po file of your language using the .pot template.
+
+# Example
+Example with a french translation.
+![](translated_text_example.png)
