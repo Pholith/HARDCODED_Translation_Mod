@@ -21,12 +21,6 @@ If you have any error, you can check the logs in:
 # Translation
 You want to translate this game ? Thanks that's really cool !   
 
-## Crowdin project
-
-I created a crowdin project to help users translating, so now you can contribute here:   
-https://crowdin.com/project/hardcoded
-
-## With the file
 In the github source repository, you will find a [file named translation_template.pot](https://github.com/Pholith/HARDCODED_Translation_Mod/blob/main/translation_template.pot).   
 This file contains most of the strings of the game, you can open it using [POEdit](https://poedit.net/) or any [similar software](https://alternativeto.net/software/poedit/).
    
